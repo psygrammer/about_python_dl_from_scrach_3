@@ -1,0 +1,3 @@
+[submodule "ref/deep-learning-from-scratch-3"]
+	path = ref/deep-learning-from-scratch-3
+	url = https://github.com/WegraLee/deep-learning-from-scratch-3.git
